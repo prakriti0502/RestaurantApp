@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "name": "Chaayos",
+      "email": "chaayos@hotmail.com",
+      "mobile": "9876543210",
+      "address": "Savoy Greens, Karnal",
+      "service": "Tea, Coffee, Breakfast, Snacks"
+    },
+    {
+      "id": 3,
+      "name": "Wow Momos",
+      "email": "wowmomo@icloud.com",
+      "mobile": "8596948378",
+      "address": "VR Mall, WhiteField, Bangalore",
+      "service": "Momos"
+    },
+    {
+      "id": 4,
+      "name": "Lord of the Drinks",
+      "email": "lorDrinks@gmail.com",
+      "mobile": "4758678937",
+      "address": "Phoenix Mall, WhiteField, Bangalore",
+      "service": "Alcohol, Mocktails, Food"
+    }
+  ],
+  "signup": [
+    {
+      "name": "Prakriti",
+      "email": "pakku@hotmail.com",
+      "mobile": 4657837689,
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "name": "Prakriti",
+      "email": "pakku@mail.com",
+      "mobile": 9876543210,
+      "password": "abc123",
+      "id": 2
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
